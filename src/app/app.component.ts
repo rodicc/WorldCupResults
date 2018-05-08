@@ -1,10 +1,19 @@
 import { Component } from '@angular/core';
 
+import { Team } from './team';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'World Cup Results';
+  teams : Team[];
+  
+  constructor () {}
+
+  ngOnInit() {
+   
+   }
 }

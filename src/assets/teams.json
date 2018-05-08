@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "code" : "RUS",
+    "group" : "A",
+    "name" : "Russia",
+    "flag_small" : "assets/images/rus.png"
+  },
+  {
+    "id" : 2,
+    "code" : "KSA",
+    "group" : "A",
+    "name" : "Saudi Arabia",
+    "flag_small" : "assets/images/ksa.png"
+  },
+  {
+    "id" : 3,
+    "code" : "EGY",
+    "group" : "A",
+    "name" : "Egypt",
+    "flag_small" : "assets/images/egy.png"
+  },
+  {
+    "id" : 4,
+    "code" : "URU",
+    "group" : "A",
+    "name" : "Uruguay",
+    "flag_small" : "assets/images/uru.png"
+  },
+  {
+    "id" : 5,
+    "code" : "POR",
+    "group" : "B",
+    "name" : "Portugal",
+    "flag_small" : "assets/images/por.png"
+  },
+  {
+    "id" : 6,
+    "code" : "ESP",
+    "group" : "B",
+    "name" : "Spain",
+    "flag_small" : "assets/images/esp.png"
+  },
+  {
+    "id" : 7,
+    "code" : "MAR",
+    "group" : "B",
+    "name" : "Morocco",
+    "flag_small" : "assets/images/mar.png"
+  },
+  {
+    "id" : 8,
+    "code" : "IRN",
+    "group" : "B",
+    "name" : "IR Iran",
+    "flag_small" : "assets/images/irn.png"
+  },
+  {
+    "id" : 9,
+    "code" : "FRA",
+    "group" : "C",
+    "name" : "France",
+    "flag_small" : "assets/images/fra.png"
+  },
+  {
+    "id" : 10,
+    "code" : "AUS",
+    "group" : "C",
+    "name" : "Australia",
+    "flag_small" : "assets/images/aus.png"
+  },
+  {
+    "id" : 11,
+    "code" : "PER",
+    "group" : "C",
+    "name" : "Peru",
+    "flag_small" : "assets/images/per.png"
+  },
+  {
+    "id" : 12,
+    "code" : "DEN",
+    "group" : "C",
+    "name" : "Denmark",
+    "flag_small" : "assets/images/den.png"
+  },
+  {
+    "id" : 13,
+    "code" : "ARG",
+    "group" : "D",
+    "name" : "Argentina",
+    "flag_small" : "assets/images/arg.png"
+  },
+  {
+    "id" : 14,
+    "code" : "ISL",
+    "group" : "D",
+    "name" : "Iceland",
+    "flag_small" : "assets/images/isl.png"
+  },
+  {
+    "id" : 15,
+    "code" : "CRO",
+    "group" : "D",
+    "name" : "Croatia",
+    "flag_small" : "assets/images/cro.png"
+  },
+  {
+    "id" : 16,
+    "code" : "NGA",
+    "group" : "D",
+    "name" : "Nigeria",
+    "flag_small" : "assets/images/nga.png"
+  },
+  {
+    "id" : 17,
+    "code" : "BRA",
+    "group" : "E",
+    "name" : "Brazil",
+    "flag_small" : "assets/images/bra.png"
+  },
+  {
+    "id" : 18,
+    "code" : "SUI",
+    "group" : "E",
+    "name" : "Switzerland",
+    "flag_small" : "assets/images/sui.png"
+  },
+  {
+    "id" : 19,
+    "code" : "CRC",
+    "group" : "E",
+    "name" : "Costa Rica",
+    "flag_small" : "assets/images/crc.png"
+  },
+  {
+    "id" : 20,
+    "code" : "SRB",
+    "group" : "E",
+    "name" : "Serbia",
+    "flag_small" : "assets/images/srb.png"
+  },
+  {
+    "id" : 21,
+    "code" : "GER",
+    "group" : "F",
+    "name" : "Germany",
+    "flag_small" : "assets/images/ger.png"
+  },
+  {
+    "id" : 22,
+    "code" : "MEX",
+    "group" : "F",
+    "name" : "Mexico",
+    "flag_small" : "assets/images/mex.png"
+  },
+  {
+    "id" : 23,
+    "code" : "SWE",
+    "group" : "F",
+    "name" : "Sweden",
+    "flag_small" : "assets/images/swe.png"
+  },
+  {
+    "id" : 24,
+    "code" : "KOR",
+    "group" : "F",
+    "name" : "Korea Republic",
+    "flag_small" : "assets/images/kor.png"
+  },
+  {
+    "id" : 25,
+    "code" : "BEL",
+    "group" : "G",
+    "name" : "Belgium",
+    "flag_small" : "assets/images/bel.png"
+  },
+  {
+    "id" : 26,
+    "code" : "PAN",
+    "group" : "G",
+    "name" : "Panama",
+    "flag_small" : "assets/images/pan.png"
+  },
+  {
+    "id" : 27,
+    "code" : "TUN",
+    "group" : "G",
+    "name" : "Tunisia",
+    "flag_small" : "assets/images/tun.png"
+  },
+  {
+    "id" : 28,
+    "code" : "ENG",
+    "group" : "G",
+    "name" : "England",
+    "flag_small" : "assets/images/eng.png"
+  },
+  {
+    "id" : 29,
+    "code" : "POL",
+    "group" : "H",
+    "name" : "Poland",
+    "flag_small" : "assets/images/pol.png"
+  },
+  {
+    "id" : 30,
+    "code" : "SEN",
+    "group" : "H",
+    "name" : "Senegal",
+    "flag_small" : "assets/images/sen.png"
+  },
+  {
+    "id" : 31,
+    "code" : "COL",
+    "group" : "H",
+    "name" : "Columbia",
+    "flag_small" : "assets/images/col.png"
+  },
+  {
+    "id" : 32,
+    "code" : "JPN",
+    "group" : "H",
+    "name" : "Japan",
+    "flag_small" : "assets/images/jpn.png"
+  }
+]
