@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { Team } from './team';
+import { Team } from './team/team';
 
 @Component({
   selector: 'app-root',

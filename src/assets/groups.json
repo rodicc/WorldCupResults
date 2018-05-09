@@ -1,0 +1,243 @@
+[
+    {
+        "name" : "A",
+        "teams" : [
+            {
+                "id": 1,
+                "code" : "RUS",
+                "name" : "Russia",
+                "flag_small" : "assets/images/rus.png"
+            },
+            {
+                "id" : 2,
+                "code" : "KSA",
+                "name" : "Saudi Arabia",
+                "flag_small" : "assets/images/ksa.png"
+            },
+            {
+                "id" : 3,
+                "code" : "EGY",
+                "name" : "Egypt",
+                "flag_small" : "assets/images/egy.png"
+            },
+            {
+                "id" : 4,
+                "code" : "URU",
+                "name" : "Uruguay",
+                "flag_small" : "assets/images/uru.png"
+            }
+        ],
+        "matches" : [1,2,17,18,33,34]
+    },
+    {
+        "name" : "B",
+        "teams" : [
+            {
+                "id" : 5,
+                "code" : "POR",
+                "name" : "Portugal",
+                "flag_small" : "assets/images/por.png"
+            },
+            {
+                "id" : 6,
+                "code" : "ESP",
+                "name" : "Spain",
+                "flag_small" : "assets/images/esp.png"
+            },
+            {
+                "id" : 7,
+                "code" : "MAR",
+                "name" : "Morocco",
+                "flag_small" : "assets/images/mar.png"
+            },
+            {
+                "id" : 8,
+                "code" : "IRN",
+                "name" : "IR Iran",
+                "flag_small" : "assets/images/irn.png"
+            }
+        ],
+        "matches" : [3,4,19,20,35,36]
+    },
+    {
+        "name" : "C",
+        "teams" : [
+            {
+                "id" : 9,
+                "code" : "FRA",
+                "name" : "France",
+                "flag_small" : "assets/images/fra.png"
+            },
+            {
+                "id" : 10,
+                "code" : "AUS",
+                "name" : "Australia",
+                "flag_small" : "assets/images/aus.png"
+            },
+            {
+                "id" : 11,
+                "code" : "PER",
+                "name" : "Peru",
+                "flag_small" : "assets/images/per.png"
+            },
+            {
+                "id" : 12,
+                "code" : "DEN",
+                "name" : "Denmark",
+                "flag_small" : "assets/images/den.png"
+            }
+        ],
+        "matches" : [5,6,21,22,37,38]
+    },
+    {
+        "name" : "D",
+        "teams" : [
+            {
+                "id" : 13,
+                "code" : "ARG",
+                "name" : "Argentina",
+                "flag_small" : "assets/images/arg.png"
+            },
+            {
+                "id" : 14,
+                "code" : "ISL",
+                "name" : "Iceland",
+                "flag_small" : "assets/images/isl.png"
+            },
+            {
+                "id" : 15,
+                "code" : "CRO",
+                "name" : "Croatia",
+                "flag_small" : "assets/images/cro.png"
+            },
+            {
+                "id" : 16,
+                "code" : "NGA",
+                "name" : "Nigeria",
+                "flag_small" : "assets/images/nga.png"
+            }
+        ],
+        "matches" : [7,8,23,24,39,40]
+    },
+    {
+        "name" : "E",
+        "teams" : [
+            {
+                "id" : 17,
+                "code" : "BRA",
+                "name" : "Brazil",
+                "flag_small" : "assets/images/bra.png"
+            },
+            {
+                "id" : 18,
+                "code" : "SUI",
+                "name" : "Switzerland",
+                "flag_small" : "assets/images/sui.png"
+            },
+            {
+                "id" : 19,
+                "code" : "CRC",
+                "name" : "Costa Rica",
+                "flag_small" : "assets/images/crc.png"
+            },
+            {
+                "id" : 20,
+                "code" : "SRB",
+                "name" : "Serbia",
+                "flag_small" : "assets/images/srb.png"
+            }
+        ],
+        "matches" : [9,10,25,26,41,42]
+    },
+    {
+        "name" : "F",
+        "teams" : [
+            {
+                "id" : 21,
+                "code" : "GER",
+                "name" : "Germany",
+                "flag_small" : "assets/images/ger.png"
+            },
+            {
+                "id" : 22,
+                "code" : "MEX",
+                "name" : "Mexico",
+                "flag_small" : "assets/images/mex.png"
+            },
+            {
+                "id" : 23,
+                "code" : "SWE",
+                "name" : "Sweden",
+                "flag_small" : "assets/images/swe.png"
+            },
+            {
+                "id" : 24,
+                "code" : "KOR",
+                "name" : "Korea Republic",
+                "flag_small" : "assets/images/kor.png"
+            }
+        ],
+        "matches" : [11,12,27,28,43,44]
+    },
+    {
+        "name" : "G",
+        "teams" : [
+            {
+                "id" : 25,
+                "code" : "BEL",
+                "name" : "Belgium",
+                "flag_small" : "assets/images/bel.png"
+            },
+            {
+                "id" : 26,
+                "code" : "PAN",
+                "name" : "Panama",
+                "flag_small" : "assets/images/pan.png"
+            },
+            {
+                "id" : 27,
+                "code" : "TUN",
+                "name" : "Tunisia",
+                "flag_small" : "assets/images/tun.png"
+            },
+            {
+                "id" : 28,
+                "code" : "ENG",
+                "name" : "England",
+                "flag_small" : "assets/images/eng.png"
+            }
+        ],
+        "matches" : [13,14,29,30,45,46]
+    },
+    {
+        "name" : "H",
+        "teams" : [
+            {
+                "id" : 29,
+                "code" : "POL",
+                "name" : "Poland",
+                "flag_small" : "assets/images/pol.png"
+            },
+            {
+                "id" : 30,
+                "code" : "SEN",
+                "name" : "Senegal",
+                "flag_small" : "assets/images/sen.png"
+            },
+            {
+                "id" : 31,
+                "code" : "COL",
+                "name" : "Columbia",
+                "flag_small" : "assets/images/col.png"
+            },
+            {
+                "id" : 32,
+                "code" : "JPN",
+                "name" : "Japan",
+                "flag_small" : "assets/images/jpn.png"
+            }
+        ],
+        "matches" : [15,16,31,32,47,48]
+    }
+
+]

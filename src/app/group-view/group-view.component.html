@@ -1,0 +1,13 @@
+<p>
+  group-view works!
+  {{group?.name}}
+</p>
+<mat-grid-list cols="1" >
+  <div class="group-title">Group {{group?.name}}</div>
+  <div *ngFor="let team of group?.teams" class="team-panel">
+      <img src={{team.flag_small}}>
+      <span> {{team.name}}
+          <small>({{team.code}})</small>
+      </span>
+  </div>
+</mat-grid-list>
