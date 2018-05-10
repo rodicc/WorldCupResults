@@ -3,4 +3,38 @@
 
 body {
     background-image: url("https://www.bettingtop10.com/gb/wp-content/uploads/sites/6/2017/05/blue-wc-2018-background.jpg");
+    background-attachment: fixed;
 }
+
+.team-panel {
+    font-size: 120%;
+    padding: 5px;
+    padding-left: 25px;
+    border-bottom: 1px solid rgb(231, 231, 231);
+    text-align: left;
+    width: 320px;
+  }
+  .match-panel-left {
+    font-size: 120%;
+    padding: 5px;
+    text-align: center;
+  }
+
+  .match-panel-right {
+    font-size: 120%;
+    padding: 5px;
+    text-align: center;
+  }
+
+  .group-container {
+    background-color: rgb(240, 240, 240);
+    border: 1px solid rgb(231, 231, 231);
+    width: 260px;
+    border-radius: 15px;
+  }
+  .group-title {
+    padding-bottom: 10px;
+    font-size: 150%;
+  }
+  
+  

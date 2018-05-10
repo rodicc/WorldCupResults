@@ -1,6 +1,22 @@
-.group-container {
-    background-color: rgb(240, 240, 240);
-    border: 1px solid rgb(231, 231, 231);
-    width: 360px; //260
+table{
     border-radius: 15px;
+    padding: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(240, 240, 240);
+}
+thead {
+  height: 34px;
+}
+
+td {
+    border-bottom:  1px solid rgb(231, 231, 231);
+}
+th {
+    font-size: 100%;
+}
+
+
+  img {
+      height: 25px;
   }
+

@@ -1,5 +1,22 @@
-<div class="group-container">
+<!-- <div class="group-container">
   <div *ngFor="let match of matches" >
       {{match.matchId}} {{match.hostTeam.name}}-{{match.guestTeam.name}} {{match.time}} / {{match.date}}
   </div>
-</div>
+</div> -->
+
+
+<table  style="width : 70% ; margin: 0 auto; margin-top: 50px">
+  
+    <tbody>
+      <tr *ngFor="let match of matches">
+        <td class="match-panel-left">{{match.hostTeam.name}}&nbsp;<small>({{match.hostTeam.code}})</small></td>
+        <td>
+        <img src="{{match.hostTeam.flag_small}}"> &nbsp;&nbsp; {{match.time}} &nbsp;&nbsp;
+        <img src="{{match.guestTeam.flag_small}}"> 
+      </td>
+      <td class="match-panel-right">{{match.guestTeam.name}}&nbsp;<small>({{match.guestTeam.code}})</small></td>
+      <td style="text-align: center;"><small>{{match.date}}</small></td>    
+      </tr>
+  
+    </tbody>
+  </table>
