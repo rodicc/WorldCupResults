@@ -1,13 +1,50 @@
-<p>
-  group-view works!
-  {{group?.name}}
-</p>
-<mat-grid-list cols="1" >
-  <div class="group-title">Group {{group?.name}}</div>
-  <div *ngFor="let team of group?.teams" class="team-panel">
-      <img src={{team.flag_small}}>
-      <span> {{team.name}}
+<table class="mat-table" style="width : 70% ; margin: 0 auto; margin-top: 10%">
+  <thead>
+    <tr class="mat-header-row">
+      <th> </th>
+      <th class="mat-header-cell"> Played</th>
+      <th class="mat-header-cell"> Won </th>
+      <th class="mat-header-cell"> Drawn </th>
+      <th class="mat-header-cell"> Lost </th>
+      <th class="mat-header-cell"> Goals for </th>
+      <th class="mat-header-cell"> Goals against </th>
+      <th class="mat-header-cell"> Goal difference </th>
+      <th class="mat-header-cell"> Points </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let team of group?.teams">
+      <td class="team-panel">
+        <img src={{team.flag_small}}>
+        <span> {{team.name}}
           <small>({{team.code}})</small>
-      </span>
-  </div>
-</mat-grid-list>
+        </span>
+      </td>
+      <td> 0 </td>
+      <td>0 </td>
+      <td>0 </td>
+      <td>0 </td>
+      <td> 0 </td>
+      <td>0 </td>
+      <td> 0 </td>
+      <td> 0 </td>
+
+    </tr>
+  </tbody>
+</table>
+
+<table  style="width : 70% ; margin: 0 auto; margin-top: 50px">
+  <thead>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let match of groupMatches">
+      <td style="">
+      {{match.hostTeam.name}}
+      <img src="{{match.hostTeam.flag_small}}"> -
+      <img src="{{match.guestTeam.flag_small}}"> {{match.guestTeam.name}}
+    </td>
+    </tr>
+
+  </tbody>
+</table>

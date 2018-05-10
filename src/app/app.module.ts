@@ -15,10 +15,11 @@ import { GroupComponent } from "./group/group.component";
 import { AppRoutingModule } from './/app-routing.module';
 import { GroupViewComponent } from './group-view/group-view.component';
 import { GroupService } from "./group/group.service";
+import { MatchViewComponent } from './match-view/match-view.component';
 
 
 @NgModule({
-  declarations: [AppComponent, TeamComponent, GroupComponent, GroupViewComponent],
+  declarations: [AppComponent, TeamComponent, GroupComponent, GroupViewComponent, MatchViewComponent],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,

@@ -17,8 +17,6 @@ export class GroupService {
   }
 
   getGroupByName(groupName: string) {
-    console.log("usao u servis");
-
     return this.httpService
       .get<Group>(url)
       .pipe(filter(group => group.name === groupName));
