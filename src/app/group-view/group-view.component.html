@@ -34,16 +34,16 @@
 </table>
 
 <table  style="width : 70% ; margin: 0 auto; margin-top: 50px">
-  <thead>
-    <th></th>
-  </thead>
+  
   <tbody>
     <tr *ngFor="let match of groupMatches">
-      <td style="">
-      {{match.hostTeam.name}}
-      <img src="{{match.hostTeam.flag_small}}"> -
-      <img src="{{match.guestTeam.flag_small}}"> {{match.guestTeam.name}}
+      <td class="match-panel-left">{{match.hostTeam.name}}&nbsp;<small>({{match.hostTeam.code}})</small></td>
+      <td>
+      <img src="{{match.hostTeam.flag_small}}"> &nbsp;&nbsp; {{match.time}} &nbsp;&nbsp;
+      <img src="{{match.guestTeam.flag_small}}"> 
     </td>
+    <td class="match-panel-right">{{match.guestTeam.name}}&nbsp;<small>({{match.guestTeam.code}})</small></td>
+    <td style="text-align: center;"><small>{{match.date}}</small></td>    
     </tr>
 
   </tbody>
