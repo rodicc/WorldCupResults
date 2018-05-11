@@ -1,11 +1,13 @@
 import { Injectable } from "@angular/core";
 
 import { filter } from "rxjs/operators";
-import { HttpClient } from "@angular/common/http";
+import { HttpClient, HttpHeaders } from "@angular/common/http";
 import { Group } from "./group";
 
-const url: string = "assets/groups.json";
-
+const url: string = "api/groups"; //assets/groups.json
+const httpOptions = {
+  headers: new HttpHeaders({ 'Content-Type': 'application/json' })
+};
 @Injectable({
   providedIn: "root"
 })

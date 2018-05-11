@@ -6,6 +6,8 @@ import { switchMap } from "rxjs/operators";
 import { MatchService } from "../match-view/match.service";
 import { Match } from "../match-view/match";
 
+const url: string = "assets/images/2x/edit.png";
+
 @Component({
   selector: "group-view",
   templateUrl: "./group-view.component.html",
@@ -44,13 +46,18 @@ export class GroupViewComponent implements OnInit {
     this.matchService.getMatches().subscribe(matches => {
       allMatches = matches;
       for (var j = 0; j < matchIds.length; j++) {
-        for (let i = 0; i < allMatches.length; i++) {
-          if (allMatches[i].matchId === matchIds[j]) {
-            result.push(allMatches[i]);
-          }
-        }
-        this.groupMatches = result;
+        this.matchService
+          .getMatchById(matchIds[j])
+          .subscribe(match => result.push(match));
       }
+      this.groupMatches = result;
     });
+  }
+
+  editResult(matchToEdit: Match) {
+    console.log("CLICK");
+
+    console.log(matchToEdit);
+    this.matchService.updateMatch(matchToEdit);
   }
 }

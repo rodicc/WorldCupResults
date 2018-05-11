@@ -1,10 +1,13 @@
 import { Injectable } from "@angular/core";
 
-import { HttpClient } from "@angular/common/http";
+import { HttpClient, HttpHeaders } from "@angular/common/http";
 import { Match } from "./match";
 import { filter } from "rxjs/operators";
 
-const url: string = "assets/matches.json";
+const url: string = "api/matches"; // assets/matches.json
+const httpOptions = {
+  headers: new HttpHeaders({ 'Content-Type': 'application/json' })
+};
 
 @Injectable({
   providedIn: "root"
@@ -18,11 +21,12 @@ export class MatchService {
 
   getMatchById(matchId: number) {
     return this.httpService
-      .get<Match>(url)
-      .pipe(filter(match => match.matchId === matchId));
+      .get<Match>(url+"/"+matchId);
+      //.pipe(filter(match => match.matchId === matchId));
   }
 
   updateMatch(match: Match){
+    return this.httpService.put(url, match, httpOptions);
   }
   
 }

@@ -16,9 +16,9 @@
     <tr *ngFor="let team of group?.teams">
       <td class="team-panel">
         <img src={{team.flag_small}}>
-        <span> {{team.name}}
+        {{team.name}}
           <small>({{team.code}})</small>
-        </span>
+        
       </td>
       <td> 0 </td>
       <td>0 </td>
@@ -33,17 +33,31 @@
   </tbody>
 </table>
 
-<table  style="width : 70% ; margin: 0 auto; margin-top: 50px">
-  
+<table style="width : 70% ; margin: 0 auto; margin-top: 50px">
+
   <tbody>
     <tr *ngFor="let match of groupMatches">
-      <td class="match-panel-left">{{match.hostTeam.name}}&nbsp;<small>({{match.hostTeam.code}})</small></td>
+      <td class="match-panel-left">{{match.hostTeam.name}}&nbsp;
+        <small>({{match.hostTeam.code}})</small>
+      </td>
       <td>
-      <img src="{{match.hostTeam.flag_small}}"> &nbsp;&nbsp; {{match.time}} &nbsp;&nbsp;
-      <img src="{{match.guestTeam.flag_small}}"> 
-    </td>
-    <td class="match-panel-right">{{match.guestTeam.name}}&nbsp;<small>({{match.guestTeam.code}})</small></td>
-    <td style="text-align: center;"><small>{{match.date}}</small></td>    
+        <img src="{{match.hostTeam.flag_small}}">
+        <span class="result" id={{match.matchId}}>&nbsp;
+          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByHost}} [(ngModel)]='match.goalsByHost'> -
+          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByGuest}} [(ngModel)]='match.goalsByGuest'>&nbsp;</span>
+        <img src="{{match.guestTeam.flag_small}}">
+      </td>
+      <td class="match-panel-right">{{match.guestTeam.name}}&nbsp;
+        <small>({{match.guestTeam.code}})</small>
+      </td>
+      <td style="text-align: center;">
+        <small>
+          <b>{{match.time}}</b> &nbsp; {{match.date}}</small>
+      </td>
+      <td>
+        <img src="assets/images/2x/edit.png" style="height: 15px" (click)="editResult(match)">
+      </td>
+      <td>{{url}}</td>
     </tr>
 
   </tbody>

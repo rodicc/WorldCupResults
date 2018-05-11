@@ -11,7 +11,8 @@ import { Team } from "../team/team";
 export class GroupComponent implements OnInit {
   groups: Group[];
 
-  constructor(private groupService: GroupService) {}
+  constructor(private groupService: GroupService) {
+  }
 
   ngOnInit() {
     this.getGroups();

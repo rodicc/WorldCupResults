@@ -4,7 +4,7 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import {
   MatButtonModule,
   MatCheckboxModule,
-  MatGridListModule
+  MatGridListModule,
 } from "@angular/material";
 import { FormsModule } from "@angular/forms";
 
@@ -16,6 +16,8 @@ import { AppRoutingModule } from './/app-routing.module';
 import { GroupViewComponent } from './group-view/group-view.component';
 import { GroupService } from "./group/group.service";
 import { MatchViewComponent } from './match-view/match-view.component';
+import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
+import { InMemoryDataServiceService } from "src/app/in-memory-data-service.service";
 
 
 @NgModule({
@@ -28,7 +30,8 @@ import { MatchViewComponent } from './match-view/match-view.component';
     MatGridListModule,
     FormsModule,
     HttpClientModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientInMemoryWebApiModule.forRoot(InMemoryDataServiceService)
   ],
   providers: [GroupService],
   bootstrap: [AppComponent]

@@ -4,7 +4,7 @@
            
             <mat-grid-list cols="1" routerLink="/groups/{{group.name}}">
                 <div class="group-title">Group {{group.name}}</div>
-                <div *ngFor="let team of group.teams" class="team-panel">
+                <div *ngFor="let team of group.teams" class="team-panel offset">
                     <img src={{team.flag_small}}>
                     <span> {{team.name}}
                         <small>({{team.code}})</small>
