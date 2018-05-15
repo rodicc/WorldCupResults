@@ -6,14 +6,30 @@
             "id": 1,
             "code" : "RUS",
             "name" : "Russia",
-            "flag_small" : "assets/images/rus.png"
+            "flag_small" : "assets/images/rus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 2,
             "code" : "KSA",
             "name" : "Saudi Arabia",
-            "flag_small" : "assets/images/ksa.png"
+            "flag_small" : "assets/images/ksa.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "14 Jun 2018",
         "time" : "17:00",
@@ -28,14 +44,30 @@
             "id" : 3,
             "code" : "EGY",
             "name" : "Egypt",
-            "flag_small" : "assets/images/egy.png"
+            "flag_small" : "assets/images/egy.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 4,
             "code" : "URU",
             "name" : "Uruguay",
-            "flag_small" : "assets/images/uru.png"
+            "flag_small" : "assets/images/uru.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "15 Jun 2018",
         "time" : "14:00",
@@ -50,14 +82,30 @@
             "id" : 5,
             "code" : "POR",
             "name" : "Portugal",
-            "flag_small" : "assets/images/por.png"
+            "flag_small" : "assets/images/por.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 6,
             "code" : "ESP",
             "name" : "Spain",
-            "flag_small" : "assets/images/esp.png"
+            "flag_small" : "assets/images/esp.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "15 Jun 2018",
         "time" : "20:00",
@@ -72,14 +120,30 @@
             "id" : 7,
             "code" : "MAR",
             "name" : "Morocco",
-            "flag_small" : "assets/images/mar.png"
+            "flag_small" : "assets/images/mar.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 8,
             "code" : "IRN",
             "name" : "IR Iran",
-            "flag_small" : "assets/images/irn.png"
+            "flag_small" : "assets/images/irn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "15 Jun 2018",
         "time" : "17:00",
@@ -94,14 +158,30 @@
             "id" : 9,
             "code" : "FRA",
             "name" : "France",
-            "flag_small" : "assets/images/fra.png"
+            "flag_small" : "assets/images/fra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 10,
             "code" : "AUS",
             "name" : "Australia",
-            "flag_small" : "assets/images/aus.png"
+            "flag_small" : "assets/images/aus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "16 Jun 2018",
         "time" : "12:00",
@@ -116,14 +196,30 @@
             "id" : 11,
             "code" : "PER",
             "name" : "Peru",
-            "flag_small" : "assets/images/per.png"
+            "flag_small" : "assets/images/per.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 12,
             "code" : "DEN",
             "name" : "Denmark",
-            "flag_small" : "assets/images/den.png"
+            "flag_small" : "assets/images/den.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "16 Jun 2018",
         "time" : "18:00",
@@ -138,14 +234,30 @@
             "id" : 13,
             "code" : "ARG",
             "name" : "Argentina",
-            "flag_small" : "assets/images/arg.png"
+            "flag_small" : "assets/images/arg.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 14,
             "code" : "ISL",
             "name" : "Iceland",
-            "flag_small" : "assets/images/isl.png"
+            "flag_small" : "assets/images/isl.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "16 Jun 2018",
         "time" : "18:00",
@@ -160,14 +272,30 @@
             "id" : 15,
             "code" : "CRO",
             "name" : "Croatia",
-            "flag_small" : "assets/images/cro.png"
+            "flag_small" : "assets/images/cro.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 16,
             "code" : "NGA",
             "name" : "Nigeria",
-            "flag_small" : "assets/images/nga.png"
+            "flag_small" : "assets/images/nga.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "16 Jun 2018",
         "time" : "21:00",
@@ -182,14 +310,30 @@
             "id" : 17,
             "code" : "BRA",
             "name" : "Brazil",
-            "flag_small" : "assets/images/bra.png"
+            "flag_small" : "assets/images/bra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 18,
             "code" : "SUI",
             "name" : "Switzerland",
-            "flag_small" : "assets/images/sui.png"
+            "flag_small" : "assets/images/sui.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "17 Jun 2018",
         "time" : "20:00",
@@ -204,14 +348,30 @@
             "id" : 19,
             "code" : "CRC",
             "name" : "Costa Rica",
-            "flag_small" : "assets/images/crc.png"
+            "flag_small" : "assets/images/crc.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 20,
             "code" : "SRB",
             "name" : "Serbia",
-            "flag_small" : "assets/images/srb.png"
+            "flag_small" : "assets/images/srb.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "17 Jun 2018",
         "time" : "14:00",
@@ -226,14 +386,30 @@
             "id" : 21,
             "code" : "GER",
             "name" : "Germany",
-            "flag_small" : "assets/images/ger.png"
+            "flag_small" : "assets/images/ger.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 22,
             "code" : "MEX",
             "name" : "Mexico",
-            "flag_small" : "assets/images/mex.png"
+            "flag_small" : "assets/images/mex.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "17 Jun 2018",
         "time" : "17:00",
@@ -248,14 +424,30 @@
             "id" : 23,
             "code" : "SWE",
             "name" : "Sweden",
-            "flag_small" : "assets/images/swe.png"
+            "flag_small" : "assets/images/swe.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 24,
             "code" : "KOR",
             "name" : "Korea Republic",
-            "flag_small" : "assets/images/kor.png"
+            "flag_small" : "assets/images/kor.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "18 Jun 2018",
         "time" : "14:00",
@@ -270,14 +462,30 @@
             "id" : 25,
             "code" : "BEL",
             "name" : "Belgium",
-            "flag_small" : "assets/images/bel.png"
+            "flag_small" : "assets/images/bel.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 26,
             "code" : "PAN",
             "name" : "Panama",
-            "flag_small" : "assets/images/pan.png"
+            "flag_small" : "assets/images/pan.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "18 Jun 2018",
         "time" : "17:00",
@@ -292,14 +500,30 @@
             "id" : 27,
             "code" : "TUN",
             "name" : "Tunisia",
-            "flag_small" : "assets/images/tun.png"
+            "flag_small" : "assets/images/tun.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 28,
             "code" : "ENG",
             "name" : "England",
-            "flag_small" : "assets/images/eng.png"
+            "flag_small" : "assets/images/eng.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "18 Jun 2018",
         "time" : "20:00",
@@ -314,14 +538,30 @@
             "id" : 29,
             "code" : "POL",
             "name" : "Poland",
-            "flag_small" : "assets/images/pol.png"
+            "flag_small" : "assets/images/pol.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 30,
             "code" : "SEN",
             "name" : "Senegal",
-            "flag_small" : "assets/images/sen.png"
+            "flag_small" : "assets/images/sen.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "19 Jun 2018",
         "time" : "17:00",
@@ -336,14 +576,30 @@
             "id" : 31,
             "code" : "COL",
             "name" : "Columbia",
-            "flag_small" : "assets/images/col.png"
+            "flag_small" : "assets/images/col.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 32,
             "code" : "JPN",
             "name" : "Japan",
-            "flag_small" : "assets/images/jpn.png"
+            "flag_small" : "assets/images/jpn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "19 Jun 2018",
         "time" : "14:00",
@@ -358,14 +614,30 @@
             "id": 1,
             "code" : "RUS",
             "name" : "Russia",
-            "flag_small" : "assets/images/rus.png"
+            "flag_small" : "assets/images/rus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 3,
             "code" : "EGY",
             "name" : "Egypt",
-            "flag_small" : "assets/images/egy.png"
+            "flag_small" : "assets/images/egy.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "19 Jun 2018",
         "time" : "20:00",
@@ -380,14 +652,30 @@
             "id" : 4,
             "code" : "URU",
             "name" : "Uruguay",
-            "flag_small" : "assets/images/uru.png"
+            "flag_small" : "assets/images/uru.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 2,
             "code" : "KSA",
             "name" : "Saudi Arabia",
-            "flag_small" : "assets/images/ksa.png"
+            "flag_small" : "assets/images/ksa.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "20 Jun 2018",
         "time" : "17:00",
@@ -402,14 +690,30 @@
             "id" : 5,
             "code" : "POR",
             "name" : "Portugal",
-            "flag_small" : "assets/images/por.png"
+            "flag_small" : "assets/images/por.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 7,
             "code" : "MAR",
             "name" : "Morocco",
-            "flag_small" : "assets/images/mar.png"
+            "flag_small" : "assets/images/mar.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "20 Jun 2018",
         "time" : "14:00",
@@ -424,14 +728,30 @@
             "id" : 8,
             "code" : "IRN",
             "name" : "IR Iran",
-            "flag_small" : "assets/images/irn.png"
+            "flag_small" : "assets/images/irn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 6,
             "code" : "ESP",
             "name" : "Spain",
-            "flag_small" : "assets/images/esp.png"
+            "flag_small" : "assets/images/esp.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "20 Jun 2018",
         "time" : "20:00",
@@ -446,14 +766,30 @@
             "id" : 9,
             "code" : "FRA",
             "name" : "France",
-            "flag_small" : "assets/images/fra.png"
+            "flag_small" : "assets/images/fra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 11,
             "code" : "PER",
             "name" : "Peru",
-            "flag_small" : "assets/images/per.png"
+            "flag_small" : "assets/images/per.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "21 Jun 2018",
         "time" : "17:00",
@@ -468,14 +804,30 @@
             "id" : 12,
             "code" : "DEN",
             "name" : "Denmark",
-            "flag_small" : "assets/images/den.png"
+            "flag_small" : "assets/images/den.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 10,
             "code" : "AUS",
             "name" : "Australia",
-            "flag_small" : "assets/images/aus.png"
+            "flag_small" : "assets/images/aus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "21 Jun 2018",
         "time" : "14:00",
@@ -490,14 +842,30 @@
             "id" : 13,
             "code" : "ARG",
             "name" : "Argentina",
-            "flag_small" : "assets/images/arg.png"
+            "flag_small" : "assets/images/arg.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 15,
             "code" : "CRO",
             "name" : "Croatia",
-            "flag_small" : "assets/images/cro.png"
+            "flag_small" : "assets/images/cro.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "21 Jun 2018",
         "time" : "20:00",
@@ -512,14 +880,30 @@
             "id" : 16,
             "code" : "NGA",
             "name" : "Nigeria",
-            "flag_small" : "assets/images/nga.png"
+            "flag_small" : "assets/images/nga.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 14,
             "code" : "ISL",
             "name" : "Iceland",
-            "flag_small" : "assets/images/isl.png"
+            "flag_small" : "assets/images/isl.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "22 Jun 2018",
         "time" : "17:00",
@@ -534,14 +918,30 @@
             "id" : 17,
             "code" : "BRA",
             "name" : "Brazil",
-            "flag_small" : "assets/images/bra.png"
+            "flag_small" : "assets/images/bra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 19,
             "code" : "CRC",
             "name" : "Costa Rica",
-            "flag_small" : "assets/images/crc.png"
+            "flag_small" : "assets/images/crc.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "22 Jun 2018",
         "time" : "14:00",
@@ -556,14 +956,30 @@
             "id" : 20,
             "code" : "SRB",
             "name" : "Serbia",
-            "flag_small" : "assets/images/srb.png"
+            "flag_small" : "assets/images/srb.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 18,
             "code" : "SUI",
             "name" : "Switzerland",
-            "flag_small" : "assets/images/sui.png"
+            "flag_small" : "assets/images/sui.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "22 Jun 2018",
         "time" : "20:00",
@@ -578,14 +994,30 @@
             "id" : 21,
             "code" : "GER",
             "name" : "Germany",
-            "flag_small" : "assets/images/ger.png"
+            "flag_small" : "assets/images/ger.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 23,
             "code" : "SWE",
             "name" : "Sweden",
-            "flag_small" : "assets/images/swe.png"
+            "flag_small" : "assets/images/swe.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "23 Jun 2018",
         "time" : "20:00",
@@ -600,14 +1032,30 @@
             "id" : 24,
             "code" : "KOR",
             "name" : "Korea Republic",
-            "flag_small" : "assets/images/kor.png"
+            "flag_small" : "assets/images/kor.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 22,
             "code" : "MEX",
             "name" : "Mexico",
-            "flag_small" : "assets/images/mex.png"
+            "flag_small" : "assets/images/mex.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "23 Jun 2018",
         "time" : "17:00",
@@ -622,14 +1070,30 @@
             "id" : 25,
             "code" : "BEL",
             "name" : "Belgium",
-            "flag_small" : "assets/images/bel.png"
+            "flag_small" : "assets/images/bel.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 27,
             "code" : "TUN",
             "name" : "Tunisia",
-            "flag_small" : "assets/images/tun.png"
+            "flag_small" : "assets/images/tun.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "23 Jun 2018",
         "time" : "14:00",
@@ -644,14 +1108,30 @@
             "id" : 28,
             "code" : "ENG",
             "name" : "England",
-            "flag_small" : "assets/images/eng.png"
+            "flag_small" : "assets/images/eng.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 26,
             "code" : "PAN",
             "name" : "Panama",
-            "flag_small" : "assets/images/pan.png"
+            "flag_small" : "assets/images/pan.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "24 Jun 2018",
         "time" : "14:00",
@@ -666,14 +1146,30 @@
             "id" : 29,
             "code" : "POL",
             "name" : "Poland",
-            "flag_small" : "assets/images/pol.png"
+            "flag_small" : "assets/images/pol.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 31,
             "code" : "COL",
             "name" : "Columbia",
-            "flag_small" : "assets/images/col.png"
+            "flag_small" : "assets/images/col.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "24 Jun 2018",
         "time" : "20:00",
@@ -688,14 +1184,30 @@
             "id" : 32,
             "code" : "JPN",
             "name" : "Japan",
-            "flag_small" : "assets/images/jpn.png"
+            "flag_small" : "assets/images/jpn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 30,
             "code" : "SEN",
             "name" : "Senegal",
-            "flag_small" : "assets/images/sen.png"
+            "flag_small" : "assets/images/sen.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "24 Jun 2018",
         "time" : "17:00",
@@ -710,14 +1222,30 @@
             "id" : 4,
             "code" : "URU",
             "name" : "Uruguay",
-            "flag_small" : "assets/images/uru.png"
+            "flag_small" : "assets/images/uru.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id": 1,
             "code" : "RUS",
             "name" : "Russia",
-            "flag_small" : "assets/images/rus.png"
+            "flag_small" : "assets/images/rus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "25 Jun 2018",
         "time" : "16:00",
@@ -732,14 +1260,30 @@
             "id" : 2,
             "code" : "KSA",
             "name" : "Saudi Arabia",
-            "flag_small" : "assets/images/ksa.png"
+            "flag_small" : "assets/images/ksa.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 3,
             "code" : "EGY",
             "name" : "Egypt",
-            "flag_small" : "assets/images/egy.png"
+            "flag_small" : "assets/images/egy.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "25 Jun 2018",
         "time" : "16:00",
@@ -754,14 +1298,30 @@
             "id" : 8,
             "code" : "IRN",
             "name" : "IR Iran",
-            "flag_small" : "assets/images/irn.png"
+            "flag_small" : "assets/images/irn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 5,
             "code" : "POR",
             "name" : "Portugal",
-            "flag_small" : "assets/images/por.png"
+            "flag_small" : "assets/images/por.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "25 Jun 2018",
         "time" : "20:00",
@@ -776,14 +1336,30 @@
             "id" : 6,
             "code" : "ESP",
             "name" : "Spain",
-            "flag_small" : "assets/images/esp.png"
+            "flag_small" : "assets/images/esp.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 7,
             "code" : "MAR",
             "name" : "Morocco",
-            "flag_small" : "assets/images/mar.png"
+            "flag_small" : "assets/images/mar.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "25 Jun 2018",
         "time" : "20:00",
@@ -798,14 +1374,30 @@
             "id" : 12,
             "code" : "DEN",
             "name" : "Denmark",
-            "flag_small" : "assets/images/den.png"
+            "flag_small" : "assets/images/den.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 9,
             "code" : "FRA",
             "name" : "France",
-            "flag_small" : "assets/images/fra.png"
+            "flag_small" : "assets/images/fra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "26 Jun 2018",
         "time" : "16:00",
@@ -820,14 +1412,30 @@
             "id" : 10,
             "code" : "AUS",
             "name" : "Australia",
-            "flag_small" : "assets/images/aus.png"
+            "flag_small" : "assets/images/aus.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 11,
             "code" : "PER",
             "name" : "Peru",
-            "flag_small" : "assets/images/per.png"
+            "flag_small" : "assets/images/per.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "26 Jun 2018",
         "time" : "16:00",
@@ -842,14 +1450,30 @@
             "id" : 16,
             "code" : "NGA",
             "name" : "Nigeria",
-            "flag_small" : "assets/images/nga.png"
+            "flag_small" : "assets/images/nga.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 13,
             "code" : "ARG",
             "name" : "Argentina",
-            "flag_small" : "assets/images/arg.png"
+            "flag_small" : "assets/images/arg.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "26 Jun 2018",
         "time" : "20:00",
@@ -864,14 +1488,30 @@
             "id" : 14,
             "code" : "ISL",
             "name" : "Iceland",
-            "flag_small" : "assets/images/isl.png"
+            "flag_small" : "assets/images/isl.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 15,
             "code" : "CRO",
             "name" : "Croatia",
-            "flag_small" : "assets/images/cro.png"
+            "flag_small" : "assets/images/cro.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "26 Jun 2018",
         "time" : "20:00",
@@ -886,14 +1526,30 @@
             "id" : 20,
             "code" : "SRB",
             "name" : "Serbia",
-            "flag_small" : "assets/images/srb.png"
+            "flag_small" : "assets/images/srb.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 17,
             "code" : "BRA",
             "name" : "Brazil",
-            "flag_small" : "assets/images/bra.png"
+            "flag_small" : "assets/images/bra.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "27 Jun 2018",
         "time" : "20:00",
@@ -908,14 +1564,30 @@
             "id" : 18,
             "code" : "SUI",
             "name" : "Switzerland",
-            "flag_small" : "assets/images/sui.png"
+            "flag_small" : "assets/images/sui.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 19,
             "code" : "CRC",
             "name" : "Costa Rica",
-            "flag_small" : "assets/images/crc.png"
+            "flag_small" : "assets/images/crc.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "27 Jun 2018",
         "time" : "20:00",
@@ -930,14 +1602,30 @@
             "id" : 24,
             "code" : "KOR",
             "name" : "Korea Republic",
-            "flag_small" : "assets/images/kor.png"
+            "flag_small" : "assets/images/kor.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 21,
             "code" : "GER",
             "name" : "Germany",
-            "flag_small" : "assets/images/ger.png"
+            "flag_small" : "assets/images/ger.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "27 Jun 2018",
         "time" : "16:00",
@@ -952,14 +1640,30 @@
             "id" : 22,
             "code" : "MEX",
             "name" : "Mexico",
-            "flag_small" : "assets/images/mex.png"
+            "flag_small" : "assets/images/mex.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 23,
             "code" : "SWE",
             "name" : "Sweden",
-            "flag_small" : "assets/images/swe.png"
+            "flag_small" : "assets/images/swe.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "27 Jun 2018",
         "time" : "16:00",
@@ -974,14 +1678,30 @@
             "id" : 28,
             "code" : "ENG",
             "name" : "England",
-            "flag_small" : "assets/images/eng.png"
+            "flag_small" : "assets/images/eng.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 25,
             "code" : "BEL",
             "name" : "Belgium",
-            "flag_small" : "assets/images/bel.png"
+            "flag_small" : "assets/images/bel.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "28 Jun 2018",
         "time" : "20:00",
@@ -996,14 +1716,30 @@
             "id" : 26,
             "code" : "PAN",
             "name" : "Panama",
-            "flag_small" : "assets/images/pan.png"
+            "flag_small" : "assets/images/pan.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 27,
             "code" : "TUN",
             "name" : "Tunisia",
-            "flag_small" : "assets/images/tun.png"
+            "flag_small" : "assets/images/tun.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "28 Jun 2018",
         "time" : "20:00",
@@ -1018,14 +1754,30 @@
             "id" : 32,
             "code" : "JPN",
             "name" : "Japan",
-            "flag_small" : "assets/images/jpn.png"
+            "flag_small" : "assets/images/jpn.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 29,
             "code" : "POL",
             "name" : "Poland",
-            "flag_small" : "assets/images/pol.png"
+            "flag_small" : "assets/images/pol.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "28 Jun 2018",
         "time" : "16:00",
@@ -1040,14 +1792,30 @@
             "id" : 30,
             "code" : "SEN",
             "name" : "Senegal",
-            "flag_small" : "assets/images/sen.png"
+            "flag_small" : "assets/images/sen.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "guestTeam" : 
         {
             "id" : 31,
             "code" : "COL",
             "name" : "Columbia",
-            "flag_small" : "assets/images/col.png"
+            "flag_small" : "assets/images/col.png",
+            "played" : 0,
+            "won" : 0,
+            "lost" : 0,
+            "drawn" : 0,
+            "goalsFor" : 0,
+            "goalsAgainst" : 0,
+            "goalDifference" : 0,
+            "points" : 0
         },
         "date" : "28 Jun 2018",
         "time" : "16:00",
@@ -1060,7 +1828,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "30 Jun 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1070,7 +1838,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "30 Jun 2018",
-        "time" : "17:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1080,7 +1848,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "1 Jul 2018",
-        "time" : "17:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1090,7 +1858,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "1 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1100,7 +1868,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "2 Jul 2018",
-        "time" : "18:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1110,7 +1878,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "2 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1120,7 +1888,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "3 Jul 2018",
-        "time" : "17:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1130,7 +1898,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "3 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1140,7 +1908,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "6 Jul 2018",
-        "time" : "17:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1150,7 +1918,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "6 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1160,7 +1928,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "7 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1170,7 +1938,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "7 Jul 2018",
-        "time" : "18:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1180,7 +1948,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "10 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1190,7 +1958,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "11 Jul 2018",
-        "time" : "21:00 (Local time)",
+        "time" : "20:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1200,7 +1968,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "14 Jul 2018",
-        "time" : "17:00 (Local time)",
+        "time" : "16:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false
@@ -1210,7 +1978,7 @@
         "hostTeam" : {},
         "guestTeam" : {},
         "date" : "15 Jul 2018",
-        "time" : "18:00 (Local time)",
+        "time" : "17:00",
         "goalsByHost" : 0,
         "goalsByGuest" : 0,
         "finished" : false

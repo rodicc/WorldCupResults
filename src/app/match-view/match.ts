@@ -1,7 +1,7 @@
 import { Team } from "../team/team";
 
 export class Match {
-    id : number;
+    matchId : number;
     hostTeam : Team;
     guestTeam : Team;
     date  : string;

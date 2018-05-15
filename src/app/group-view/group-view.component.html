@@ -20,14 +20,14 @@
           <small>({{team.code}})</small>
         
       </td>
-      <td> 0 </td>
-      <td>0 </td>
-      <td>0 </td>
-      <td>0 </td>
-      <td> 0 </td>
-      <td>0 </td>
-      <td> 0 </td>
-      <td> 0 </td>
+      <td>{{team.played}}</td>
+      <td>{{team.won}}</td>
+      <td>{{team.drawn}}</td>
+      <td>{{team.lost}}</td>
+      <td>{{team.goalsFor}}</td>
+      <td>{{team.goalsAgainst}}</td>
+      <td>{{team.goalDifference}}</td>
+      <td>{{team.points}}</td>
 
     </tr>
   </tbody>
@@ -43,8 +43,8 @@
       <td>
         <img src="{{match.hostTeam.flag_small}}">
         <span class="result" id={{match.matchId}}>&nbsp;
-          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByHost}} [(ngModel)]='match.goalsByHost'> -
-          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByGuest}} [(ngModel)]='match.goalsByGuest'>&nbsp;</span>
+          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByHost}} [(ngModel)]='match.goalsByHost'  [disabled]="match.finished"> -
+          <input oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="text-align: center" type="text" size="1" pattern="^([0-9])$" maxlength="1" value={{match.goalsByGuest}} [(ngModel)]='match.goalsByGuest' [disabled]="match.finished">&nbsp;</span>
         <img src="{{match.guestTeam.flag_small}}">
       </td>
       <td class="match-panel-right">{{match.guestTeam.name}}&nbsp;
@@ -62,3 +62,4 @@
 
   </tbody>
 </table>
+<button (click)="clearLocalStorage()">Clear inputs</button>

@@ -16,12 +16,11 @@ import { AppRoutingModule } from './/app-routing.module';
 import { GroupViewComponent } from './group-view/group-view.component';
 import { GroupService } from "./group/group.service";
 import { MatchViewComponent } from './match-view/match-view.component';
-import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
-import { InMemoryDataServiceService } from "src/app/in-memory-data-service.service";
+import { BracketComponent } from './bracket/bracket.component';
 
 
 @NgModule({
-  declarations: [AppComponent, TeamComponent, GroupComponent, GroupViewComponent, MatchViewComponent],
+  declarations: [AppComponent, TeamComponent, GroupComponent, GroupViewComponent, MatchViewComponent, BracketComponent],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
@@ -30,8 +29,7 @@ import { InMemoryDataServiceService } from "src/app/in-memory-data-service.servi
     MatGridListModule,
     FormsModule,
     HttpClientModule,
-    AppRoutingModule,
-    HttpClientInMemoryWebApiModule.forRoot(InMemoryDataServiceService)
+    AppRoutingModule
   ],
   providers: [GroupService],
   bootstrap: [AppComponent]

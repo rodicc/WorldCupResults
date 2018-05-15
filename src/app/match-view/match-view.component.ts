@@ -24,12 +24,12 @@ export class MatchViewComponent implements OnInit {
 
   getMatchById(matchId : number) : Match{
     for(let i=0; i<this.matches.length; i++){
-      if(this.matches[i].matchId === matchId )
+      if(this.matches[i].id === matchId )
         return this.matches[i];
     }
   }
 
   updateMatch(match: Match){
-    
+    this.matchService.updateMatch(match);
   }
 }
